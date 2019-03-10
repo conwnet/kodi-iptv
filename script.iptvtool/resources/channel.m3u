@@ -1,0 +1,99 @@
+#EXTM3U
+    #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1
+    http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+    #EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2
+    http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+    #EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3
+    http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+    #EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4
+    http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+    #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+
+    http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+    #EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6
+    http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+    #EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7
+    http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+    #EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8
+    http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+    #EXTINF:-1 tvg-id="cctvjilu" tvg-logo="cctvjilu.png",CCTV-9
+    http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+    #EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10
+    http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+    #EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11
+    http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+    #EXTINF:-1 tvg-id="cctv12" tvg-logo="cctv12.png",CCTV-12
+    http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+    #EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13
+    http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+    #EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14少儿
+    http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+    #EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15音乐
+    http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+    #EXTINF:-1 tvg-id="chc" tvg-logo="chc.png",CHC高清电影
+    http://ivi.bupt.edu.cn/hls/chchd.m3u8
+    #EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png",北京卫视HD
+    http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+    #EXTINF:-1 tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视HD
+    http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+    #EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",湖北卫视HD
+    http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+    #EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视HD
+    http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+    #EXTINF:-1 tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视HD
+    http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+    #EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视HD
+    http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+    #EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视HD
+    http://ivi.bupt.edu.cn/hls/jshd.m3u8
+    #EXTINF:-1 tvg-id="chongqing" tvg-logo="chongqing.png",重庆卫视HD
+    http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+    #EXTINF:-1 tvg-id="btv10" tvg-logo="btv10.png",卡酷少儿
+    http://ivi.bupt.edu.cn/hls/btv10.m3u8
+    #EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
+    http://ivi.bupt.edu.cn/hls/ahtv.m3u8
+    #EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
+    http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+    #EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
+    http://ivi.bupt.edu.cn/hls/dntv.m3u8
+    #EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
+    http://ivi.bupt.edu.cn/hls/gstv.m3u8
+    #EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视HD
+    http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+    #EXTINF:-1 tvg-id="guangxi" tvg-logo="guangxi.png",广西卫视
+    http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+    #EXTINF:-1 tvg-id="hebei" tvg-logo="hebei.png",河北卫视
+    http://ivi.bupt.edu.cn/hls/hebtv.m3u8
+    #EXTINF:-1 tvg-id="henan" tvg-logo="henan.png",河南卫视
+    http://ivi.bupt.edu.cn/hls/hntv.m3u8
+    #EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视
+    http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+    #EXTINF:-1 tvg-id="jilin" tvg-logo="jilin.png",吉林卫视
+    http://ivi.bupt.edu.cn/hls/jltv.m3u8
+    #EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
+    http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+    #EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png",贵州卫视
+    http://ivi.bupt.edu.cn/hls/gztv.m3u8
+    #EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
+    http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+    #EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
+    http://ivi.bupt.edu.cn/hls/nxtv.m3u8
+    #EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
+    http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+    #EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png",山东卫视
+    http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+    #EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
+    http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+    #EXTINF:-1 tvg-id="shan3xi" tvg-logo="shan3xi.png",陕西卫视
+    http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+    #EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视HD
+    http://ivi.bupt.edu.cn/hls/szhd.m3u8
+    #EXTINF:-1 tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
+    http://ivi.bupt.edu.cn/hls/sctv.m3u8
+    #EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
+    http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+    #EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
+    http://ivi.bupt.edu.cn/hls/yntv.m3u8
+    #EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
+    http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+    #EXTINF:-1 tvg-id="travel" tvg-logo="travel.png",旅游卫视
+    http://ivi.bupt.edu.cn/hls/lytv.m3u8
